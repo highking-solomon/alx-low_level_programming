@@ -1,18 +1,12 @@
 #include <stdio.h>
 
 /**
+ * main - entry point
  *
- *  * main - Entry point
+ * Description: printing output string with puts function
  *
- *   * 
- *
- *    * Description: 'the program's description'
- *
- *     * 
- *
- *      * Return: Always 0 (Success)
- *
- *       */
+ * Return: Always 0 (success)
+ */
 
 int main(void)
 {

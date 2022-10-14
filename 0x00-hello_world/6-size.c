@@ -3,7 +3,6 @@
 /**
  * main - Entry point
  *
- * Description: showing the size of various datatypes
  *
  * Return: Always 0 (success)
  */

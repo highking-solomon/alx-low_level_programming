@@ -34,7 +34,6 @@ int main(void)
 
 		if (f != 100)
 			printf(" ");
-		f++;
 	}
 	printf("\n");
 	return (0);

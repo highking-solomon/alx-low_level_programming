@@ -3,6 +3,8 @@
 /**
  * reset_to_98 - Function that changes the value of n via a pointer
  *
+ * @n: pointer
+ *
  * Return: 0
  *
  */

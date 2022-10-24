@@ -4,7 +4,7 @@
  * puts2 - display every other character of a string
  *
  * @str: string to work on
- * 
+ *
  */
 
 void puts2(char *str)
